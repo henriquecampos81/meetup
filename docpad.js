@@ -87,6 +87,21 @@ module.exports = {
           description: "Uma explicação dos conceitos do OMR, como definir um mapa JSON e aplicação prática em projetos",
           time: "16/05/2016  - 14h00"
         }
+      },
+      {
+        name: "Celeste Magela Campos da Silva",
+        photo: "https://avatars0.githubusercontent.com/u/6642848?v=3&s=460",
+        bio: "Formada em Ciência da Computação, especialista em Engenharia de Software",
+        company: "Sebrae MG",
+        link: {
+          href: "https://twitter.com/CelesteMagela",
+          text: "@CelesteMagela"
+        },
+        presentation: {
+          title: "Voice Actions",
+          description: "Aplicação de Voice Actions e sua utilização no android",
+          time: "14/06/2016  - 14h00"
+        }
       }
     ],
 
