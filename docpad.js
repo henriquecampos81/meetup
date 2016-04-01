@@ -44,6 +44,7 @@ module.exports = {
       'about',
       'location',
       'speakers',
+      'schedule',
       // 'contact'
     ],
 
@@ -52,6 +53,7 @@ module.exports = {
       about: "Sobre",
       location: "Localização",
       speakers: "Palestrantes",
+      schedule: "Agenda",
     },
 
     // The entire schedule
