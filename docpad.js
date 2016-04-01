@@ -107,7 +107,7 @@ module.exports = {
         name: "Diego Gurgel",
         photo: "https://avatars0.githubusercontent.com/u/2058439?v=3&s=460",
         bio: "Formado em Sistemas de Informação, especialista em Desenvolvimento de Aplicações Web, especializando em Design de Interação",
-        company: "Sebrae MG",
+        company: "Sebrae MG, IFTM",
         link: {
           href: "https://twitter.com/d_gurgel",
           text: "@d_gurgel"
