@@ -102,6 +102,21 @@ module.exports = {
           description: "Aplicação de Voice Actions e sua utilização no android",
           time: "14/06/2016  - 14h00"
         }
+      },
+      {
+        name: "Diego Gurgel",
+        photo: "https://avatars0.githubusercontent.com/u/2058439?v=3&s=460",
+        bio: "Formado em Sistemas de Informação, especialista em Desenvolvimento de Aplicações Web, especializando em Design de Interação",
+        company: "Sebrae MG",
+        link: {
+          href: "https://twitter.com/d_gurgel",
+          text: "@d_gurgel"
+        },
+        presentation: {
+          title: "Service Worker API",
+          description: "Aplicações web offline - Como usar Service Worker hoje quando a conexão o dispositivo não está disponível ou está muito baixa",
+          time: "15/07/2016  - 14h00"
+        }
       }
     ],
 
