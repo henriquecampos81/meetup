@@ -77,7 +77,7 @@ module.exports = {
         name: "Jansen Felipe",
         photo: "https://avatars2.githubusercontent.com/u/3134214?v=3&s=400",
         bio: "Formado em Sistemas de Informação, especializando em Design de Interação",
-        company: "Sebrae MG, supliu, Casa Deguste",
+        company: "Sebrae MG, Supliu Tecnologia, Casa Deguste",
         link: {
           href: "https://twitter.com/jansenfelipe",
           text: "@jansenfelipe"
