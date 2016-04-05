@@ -117,8 +117,25 @@ module.exports = {
           description: "Aplicações web offline - Como usar Service Worker hoje quando a conexão o dispositivo não está disponível ou está muito baixa",
           time: "15/07/2016  - 14h00"
         }
+      },
+      {
+        name: "Henrique Campos",
+        photo: "https://avatars0.githubusercontent.com/u/18288713?v=3&s=96",
+        bio: "Formado em Sistemas de Informação, MBA em gestão de proejetos com ênfase em Tecnologia da Informação",
+        company: "Sebrae MG, Prodabel, OI, AeC Contact Center",
+        link: {
+          href: "https://br.linkedin.com/in/henrique-campos-6558a328",
+          text: "Linkedin"
+        },
+        presentation: {
+          title: "SCRUM - Planning Poker",
+          description: "Estimativas de software utilizando o planning poker",
+          time: "19/08/2016  - 14h00"
+        }
       }
+      
     ],
+    
 
     // List of Sponsors
     sponsors: [
